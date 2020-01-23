@@ -14,7 +14,7 @@ CLS_W=0.2;
 SLF_RECON_W=0.2;
 CYC_RECON_W=1.0;
 
-PROCESSED_DATA_PATH=processed/"$DOM"
+PROCESSED_DATA_PATH= /content/gdrive/My Drive/processed/"$DOM"
 EXP_PATH="exp/$DOM";
 SAVED_MODEL_PATH="$EXP_PATH"/model;
 
